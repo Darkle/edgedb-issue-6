@@ -1,0 +1,1 @@
+# edgedb-issue-6
